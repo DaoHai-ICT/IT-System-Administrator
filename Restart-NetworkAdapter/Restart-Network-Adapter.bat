@@ -30,8 +30,7 @@ netsh interface set interface Wi-Fi enabled
 :kt 
 cls 
 echo #===============================================# 
-echo HOAN THANH QUA TRINH - VUI LONG KET NOI LAI WIFI SSIT-YARD
-echo IT TEAM - SSIT TERMINAL
+echo HOAN THANH QUA TRINH - VUI LONG KET NOI LAI WIFI 
 echo UNG DUNG SE TU DONG THOAT SAU 5S
 echo #===============================================# 
 timeout /t 5
